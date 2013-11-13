@@ -7,8 +7,6 @@ If you don't have any VPN connection, I think you should setup one just to try t
 
 ## Use
 
-Enter a command:
-
 By entering vpn command a list of the available VPN profiles will be shown, for each item the current connection status is available.
 Scroll to the desired list item and press enter to connect or disconnect.
 
