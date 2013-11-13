@@ -13,7 +13,7 @@ Scroll to the desired list item and press enter to connect or disconnect.
 
 ### Notes
 
-Not yet.
+Developed for Alfred 2.x.
 
 ### Downloading
 
