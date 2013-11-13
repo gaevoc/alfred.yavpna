@@ -19,5 +19,4 @@ None.
 
 ### Downloading
 
-* Github: https://github.com/shawnrice/alfred2-dhcp-toggle
-* Direct download: [ Workflow | http://www.w3snc.it/gv/alfred/ ]
+* Github: https://github.com/gaevoc/yavpna
