@@ -13,7 +13,7 @@ Scroll to the desired list item and press enter to connect or disconnect.
 
 ### Notes
 
-None.
+Not yet.
 
 ### Downloading
 
